@@ -8,6 +8,11 @@
     "type": "git",
     "url": "https://github.com/PaulStoffregen/ILI9341_fonts.git"
   },
+  "dependencies":
+  {
+    "name": "ILI9341_t3",
+    "frameworks": "arduino"
+  },
   "frameworks": "*",
   "platforms": "*"
 }
